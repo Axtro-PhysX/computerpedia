@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    font-family: "consolas", sans-serif;
+}
+
+p{
+    color: #00FF73;
+    font-family: "consolas", sans-serif;
+    font-size: large;
+}
+
+h1{
+    color: #00FF73;
+    font-family: "press Start 2P", "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2{
+    color: #00FF73;
+    font-family: "consolas", sans-serif;
+}
+
+h3{
+    color: #00FF73;
+    font-family: "consolas", sans-serif;
+}
+
+h6{
+    color: aliceblue;
+}
